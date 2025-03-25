@@ -1,7 +1,7 @@
 
 # 🔍 Keyword Search Tool for Script Files
 
-This Python script is a lightweight and helpful tool designed to search for specific **keywords or phrases** in script files within a specified folder. It helps you rediscover useful code snippets, notes, or documentation buried in `.sql`, `.py`, `.txt`, `.ps1`, or `.ipynb` files.
+This Python script is a lightweight and helpful tool designed to search for specific **keywords or phrases** in script files within a specified folder. It helps you rediscover useful code snippets, notes, or documentation buried in `.sql`, `.py`, `.txt`, or `.ps1` files.
 
 ---
 
